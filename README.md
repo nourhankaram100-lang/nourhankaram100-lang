@@ -3,13 +3,6 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
-<details>
-<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
-
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify) <be>
-
-</details>
-
 ![Totals Hits](https://komarev.com/ghpvc/?username=NourhanKaram&style=flat&color=orange)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNourhanKaram&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
 [![telegram badge](https://img.shields.io/badge/NourhanKaram-grey?style=flat&logo=telegram)](https://t.me/your-telegram) <br>
@@ -43,3 +36,4 @@ class About extends Me {
     "OtherTools" : { "Git" }
   };
 }
+
