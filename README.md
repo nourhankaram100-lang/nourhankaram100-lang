@@ -40,10 +40,15 @@ class About extends Me {
 
 <div align="center">
 <a href="https://github.com/YOUR-GITHUB-USERNAME">
-
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+  
+  <!-- عدد المستودعات -->
+  <img src="https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg" width="32.5%">
+  
+  <!-- أكثر اللغات استخداماً -->
+  <img src="https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg" width="32.5%">
+  
+  <!-- نشاط الالتزامات -->
+  <img src="https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/commit-activity.svg" width="32.5%">
 
 </a>
 
