@@ -66,9 +66,9 @@ const nourhan = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nourhankaram100-lang&show_icons=true&bg_color=0d0d0d&title_color=FF6B9D&icon_color=F8B500&text_color=ffffff&border_color=C44569&hide_border=false&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nourhankaram100-lang&show_icons=true&bg_color=0d0d0d&title_color=FF6B9D&icon_color=F8B500&text_color=ffffff&border_color=C44569&cache_seconds=1800&hide_border=false"/>
 
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nourhankaram100-lang&layout=compact&bg_color=0d0d0d&title_color=FF6B9D&text_color=ffffff&border_color=C44569"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nourhankaram100-lang&layout=compact&bg_color=0d0d0d&title_color=FF6B9D&text_color=ffffff&border_color=C44569&cache_seconds=1800"/>
 
 </div>
 
@@ -112,4 +112,3 @@ const nourhan = {
 *"الكود ليس مجرد أسطر... هو فن يُبنى بالشغف 💜"*
 
 </div>
-
