@@ -23,13 +23,13 @@
 
 ```javascript
 const nourhan = {
-  name: "Nourhan Karam 🌙",
-  role: "Front-End Developer in Training",
-  location: "Egypt 🇪🇬",
-  currentlyLearning: ["Advanced React ⚛️", "Next.js 🔺", "TypeScript 💙"],
-  askMeAbout: ["HTML", "CSS", "JavaScript", "React", "Next.js"],
-  funFact: "أحب أن أحوّل الأفكار إلى واجهات جميلة 🎨",
-  goal: "Building things that make people say WOW ✨"
+  الاسم: "نورهان كرم 🌙",
+  المجال: "مطورة واجهات أمامية في طور التعلم",
+  الموقع: "مصر 🇪🇬",
+  أتعلم_حالياً: ["Advanced React ⚛️", "Next.js 🔺", "TypeScript 💙"],
+  اسأليني_عن: ["HTML", "CSS", "JavaScript", "React", "Next.js"],
+  حقيقة_ممتعة: "أحب أن أحوّل الأفكار إلى واجهات جميلة 🎨",
+  هدفي: "أبني حاجات تخلي الناس تقول WOW ✨"
 };
 ```
 
@@ -66,24 +66,24 @@ const nourhan = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nourhankaram100&show_icons=true&theme=radical&bg_color=0d0d0d&title_color=FF6B9D&icon_color=F8B500&text_color=ffffff&border_color=C44569&hide_border=false&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nourhankaram100-lang&show_icons=true&bg_color=0d0d0d&title_color=FF6B9D&icon_color=F8B500&text_color=ffffff&border_color=C44569&hide_border=false&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nourhankaram100&layout=compact&theme=radical&bg_color=0d0d0d&title_color=FF6B9D&text_color=ffffff&border_color=C44569"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nourhankaram100-lang&layout=compact&bg_color=0d0d0d&title_color=FF6B9D&text_color=ffffff&border_color=C44569"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nourhankaram100&theme=radical&background=0d0d0d&border=C44569&ring=FF6B9D&fire=F8B500&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FF6B9D&sideLabels=C44569&dates=6C5CE7)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nourhankaram100-lang&theme=radical&background=0d0d0d&border=C44569&ring=FF6B9D&fire=F8B500&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FF6B9D&sideLabels=C44569&dates=6C5CE7)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🌈 Contribution Snake
+## 🌈 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/nourhankaram100/nourhankaram100/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nourhankaram100-lang&bg_color=0d0d0d&color=FF6B9D&line=C44569&point=F8B500&area=true&area_color=6C5CE7&hide_border=false&border_color=C44569" alt="Contribution Graph" />
 </div>
 
 ---
@@ -92,12 +92,13 @@ const nourhan = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF6B9D?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nourhankaram100)
-[![GitHub](https://img.shields.io/badge/GitHub-C44569?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nourhankaram100)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF6B9D?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nourhan-karam-0a7a82394/)
+[![GitHub](https://img.shields.io/badge/GitHub-C44569?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nourhankaram100-lang)
+[![Portfolio](https://img.shields.io/badge/Portfolio-F8B500?style=for-the-badge&logo=vercel&logoColor=black)](https://professional-portflolio.vercel.app/)
 
 <br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=nourhankaram100&color=FF6B9D&style=for-the-badge&label=Profile+Views)
+![Visitor Count](https://komarev.com/ghpvc/?username=nourhankaram100-lang&color=FF6B9D&style=for-the-badge&label=Profile+Views)
 
 </div>
 
@@ -111,5 +112,4 @@ const nourhan = {
 *"الكود ليس مجرد أسطر... هو فن يُبنى بالشغف 💜"*
 
 </div>
-
 
